@@ -66,3 +66,7 @@ button:active {
 .operatorBtn:active {
     background-color: #f5efe3;
 }
+
+.backBtn {
+    font-size: 25px;
+}
